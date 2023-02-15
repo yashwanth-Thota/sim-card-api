@@ -5,6 +5,10 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
+/**
+ * Author : Yashwanth Thota
+ * Email : 17yashwanth29@gmail.com
+ */
 @SpringBootApplication
 @EnableAutoConfiguration
 @EnableScheduling
